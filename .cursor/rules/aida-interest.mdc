@@ -1,0 +1,116 @@
+---
+description: This rule is for driving Interest when copywriting with the AIDA formula.
+globs: 
+alwaysApply: false
+---
+# AIDA Interest Rules for Technical Professionals
+
+## Purpose
+This document outlines rules for crafting the Interest component of AIDA-structured persuasive content specifically tailored for technical professionals.
+
+## Interest Component Guidelines
+
+### Core Principles
+
+1. **Relevant Problem Elaboration**
+   - Expand on the specific technical problem introduced in the Attention phase
+   - Connect the problem to measurable business impacts (performance, costs, security)
+   - Establish clear cause-and-effect relationships between technical issues and outcomes
+
+2. **Contextual Storytelling**
+   - Use case studies from similar technical environments or industries
+   - Incorporate real-world technical scenarios that mirror the audience's daily challenges
+   - Frame narratives around specific technical roles (DevOps, Engineering Managers, Architects)
+
+3. **Technical Credibility Signals**
+   - Reference respected technical authorities, research, or benchmarks
+   - Demonstrate deep understanding of underlying technical principles
+   - Acknowledge technical complexity and nuance where appropriate
+
+4. **Audience-Specific Relevance**
+   - Address distinct concerns of different technical stakeholders (developers vs. CTOs)
+   - Acknowledge specific constraints technical teams face (legacy systems, compliance, scale)
+   - Reference common technical ecosystems and integration challenges
+
+5. **Strategic Information Sequencing**
+   - Begin with familiar technical concepts before introducing newer ones
+   - Layer information complexity progressively to build understanding
+   - Alternate between problem elaboration and solution hints to maintain engagement
+
+### Formats That Maintain Interest
+
+1. **Technical Deep Dives**
+   - "The 3 critical factors affecting [specific technical performance metric]"
+   - "Analyzing the root causes of [common technical challenge]"
+   - "What really happens when [technical process] fails: A system analysis"
+
+2. **Counterintuitive Insights**
+   - "Why conventional approaches to [technical challenge] consistently underperform"
+   - "The overlooked variable in [technical process] optimization"
+   - "Three misconceptions about [technical concept] debunked with data"
+
+3. **Future Implications**
+   - "How [emerging technology] will transform [established technical practice]"
+   - "Technical debt patterns that predict system failure within 18 months"
+   - "The ripple effects of [technical decision] across your architecture"
+
+4. **Comparative Frameworks**
+   - "Traditional vs. modern approaches to [technical challenge]: Performance analysis"
+   - "The true cost comparison of [technical approach A] vs [technical approach B]"
+   - "Build vs. buy analysis for [technical solution] at enterprise scale"
+
+### Voice and Tone Techniques
+
+1. **Authoritative Analysis**
+   - Present logical, evidence-based reasoning
+   - Maintain objectivity while guiding reader through complex concepts
+   - Use precise technical language with confidence
+
+2. **Intellectual Partnership**
+   - Position content as collaborative problem-solving
+   - Acknowledge reader's technical expertise and experience
+   - Use "we" language to suggest shared technical challenges
+
+3. **Measured Enthusiasm**
+   - Show genuine interest in technical subject matter
+   - Express appropriate excitement for technical innovations
+   - Balance technical precision with engaging delivery
+
+### Transition Mechanisms
+
+1. **Problem Amplification**
+   - Gradually expand on technical implications and hidden costs
+   - Reveal layers of complexity that make the problem more significant
+   - Connect technical issues to broader organizational impacts
+
+2. **Solution Anticipation**
+   - Plant strategic hints about potential solution characteristics
+   - Create information gaps that prompt continued reading
+   - Use foreshadowing techniques to suggest resolution is coming
+
+3. **Stakes Elevation**
+   - Progressively raise the stakes of inaction or incorrect approaches
+   - Quantify growing costs or risks over specific timeframes
+   - Contrast leaders vs. laggards in technical adoption
+
+## Implementation Examples
+
+### Effective Technical Interest Development
+
+✅ "While most monitoring solutions detect when systems fail, they miss the critical pre-failure patterns. Our analysis of 1,200+ enterprise outages revealed that 84% exhibited three specific anomalies at least 30 minutes before failure—all invisible to standard monitoring approaches."
+
+✅ "The performance impact isn't isolated to just API response times. As we analyzed systems with similar architecture patterns, we documented how these latency issues cascade through the entire data pipeline, ultimately affecting core business metrics like conversion rates (average decline of 13.7%) and session duration (reduced by 37%)."
+
+✅ "This architectural approach introduces an interesting technical paradox: while it reduces deployment complexity by 43%, it simultaneously increases operational complexity for maintenance teams. This trade-off presents different implications for organizations at different scale stages, which we'll examine through three representative scenarios."
+
+### Ineffective Technical Interest Approaches to Avoid
+
+❌ "You might be wondering why this matters. Well, it's really important for your business."
+
+❌ "Our solution uses advanced technologies to address all your needs efficiently."
+
+❌ "Many companies struggle with similar issues. Let's look at some features that can help."
+
+❌ "Technical problems can be costly. Our approach is designed to fix everything."
+
+❌ "This is interesting because it uses the latest technology that everyone is talking about." 

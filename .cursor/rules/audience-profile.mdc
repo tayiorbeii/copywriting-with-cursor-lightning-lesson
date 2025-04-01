@@ -1,0 +1,50 @@
+---
+description: 
+globs: *.md
+alwaysApply: false
+---
+# Audience Profile
+
+Any Markdown content you create should be written with the following audience profile in mind:
+
+## Demographics
+- **Professional Background**: Technical professionals, developers, content strategists, instructional designers, marketing leaders
+- **Education Level**: College-educated with specialized technical training or certifications
+- **Career Stage**: Mid to senior-level professionals (30-55) in leadership roles (Directors, VPs, CTOs, Engineering Managers)
+- **Industry**: Technology, SaaS, software development, digital content, education technology
+
+## Psychographics
+- **Tech-Forward Mindset**: Early adopters, forward-thinking, analytical, results-driven
+- **Problem-Solvers**: Value practical, efficient solutions to complex challenges
+- **Continuous Learners**: Committed to professional development and staying ahead of trends
+- **Efficiency-Focused**: Interested in automation, process optimization, and scalability
+
+## Needs & Motivations
+- **Technical Skill Enhancement**: Bridging content creation with technical implementation
+- **AI Literacy**: Understanding and implementing AI solutions effectively and ethically
+- **Career Advancement**: Acquiring specialized knowledge for competitive advantage
+- **Productivity Optimization**: Streamlining complex workflows and content processes
+
+## Pain Points
+- **Integration Challenges**: Bridging gaps between content/marketing and technical teams
+- **Resource Constraints**: Managing large volumes of content with limited resources
+- **Technical Adoption**: Justifying investment in new technologies and implementation
+- **Talent Gaps**: Finding specialists with content engineering and AI expertise
+
+## Behavioral Patterns
+- **Content Consumption**: Technical documentation, programming tutorials, industry blogs
+- **Community Participation**: Developer forums, professional networks, technical conferences
+- **Tool Adoption**: Regular evaluation and implementation of new development/content tools
+- **Decision Making**: Committee-based for significant investments, requires clear ROI evidence
+
+## Channel Preferences
+- **Professional Platforms**: LinkedIn, GitHub, Stack Overflow, technical Slack communities
+- **Educational Media**: Technical webinars, workshops, podcasts, online courses, white papers
+- **Events**: Developer conferences, hackathons, professional meetups
+
+## Values
+- Innovation and continuous learning
+- Cross-disciplinary approaches to problem-solving
+- Efficiency through automation
+- Data-driven decision making
+- Proven results and ROI

@@ -1,0 +1,120 @@
+---
+description: This rule is for driving attention when copywriting with the AIDA formula.
+globs: 
+alwaysApply: false
+---
+# AIDA Attention Rules for Technical Professionals
+
+## Purpose
+This document outlines rules for crafting the Attention component of AIDA-structured persuasive content specifically tailored for technical professionals.
+
+## Attention Component Guidelines
+
+### Core Principles
+
+1. **Technical Specificity**
+   - Use precise technical terminology relevant to the target audience
+   - Reference specific frameworks, languages, or methodologies they use daily
+   - Demonstrate immediate technical credibility through accurate nomenclature
+
+2. **Problem-Centric Hooks**
+   - Lead with a specific, quantifiable pain point (e.g., "Reduce CI/CD pipeline failures by 78%")
+   - Focus on efficiency bottlenecks that technical leaders prioritize
+   - Address scaling challenges that resonate with growing technical teams
+
+3. **Data-Driven Statements**
+   - Open with a compelling, unexpected statistic or benchmark
+   - Use comparative metrics that challenge conventional technical assumptions
+   - Reference authoritative technical research or case studies when available
+
+4. **Future-Forward Perspective**
+   - Highlight emerging technical trends before they become mainstream
+   - Position content in terms of future-proofing technical infrastructure
+   - Address obsolescence concerns that technical professionals face
+
+5. **Concision and Precision**
+   - Respect the audience's time with immediate value proposition
+   - Avoid marketing jargon in favor of technical precision
+   - Present information density appropriate for technical decision-makers
+
+### Formats That Resonate
+
+1. **Technical Challenge Statements**
+   - "How we solved [specific technical problem] at [scale/performance level]"
+   - "The unexpected root cause of [common technical failure]"
+   - "Three proven approaches to [technical challenge] benchmarked"
+
+2. **Comparative Technical Analysis**
+   - "Framework X vs. Framework Y: Performance at enterprise scale"
+   - "Legacy architecture compared to [modern alternative]: Migration ROI analysis"
+   - "Benchmarking [technology] performance: What the documentation doesn't tell you"
+
+3. **Disruption Alerts**
+   - "Critical vulnerability discovered in [widely-used technology]"
+   - "How [new technology] is making [established approach] obsolete"
+   - "The technical debt time bomb in your [specific system] architecture"
+
+4. **Technical Career Impact**
+   - "The technical skills gap widening engineering team performance"
+   - "How technical leaders are redefining [specific practice] in 2025"
+   - "Future-proof your technical toolkit: Skills with 10-year relevance"
+
+### Voice and Tone
+
+1. **Authoritative but Collegial**
+   - Write as a peer-level technical expert, not a vendor
+   - Maintain professional tone while avoiding excessive formality
+   - Use "we" language that suggests collaborative problem-solving
+
+2. **Technically Confident**
+   - Make precise technical assertions without hedging
+   - Demonstrate domain knowledge through specific examples
+   - Acknowledge technical complexity rather than oversimplifying
+
+3. **Direct and Pragmatic**
+   - Focus on practical application over theoretical ideals
+   - Emphasize measurable outcomes and implementation realities
+   - Respect the audience's technical sophistication
+
+### Anti-Patterns to Avoid
+
+1. **Marketing-Heavy Language**
+   - Avoid superlatives ("revolutionary," "game-changing")
+   - Skip generic claims lacking technical specificity
+   - Minimize buzzwords without substantiating technical details
+
+2. **Oversimplification**
+   - Don't present complex technical challenges as trivially solved
+   - Avoid binary framing of nuanced technical decisions
+   - Recognize legitimate technical trade-offs
+
+3. **Assumption of Ignorance**
+   - Never explain basic concepts the audience already understands
+   - Don't define standard industry terminology
+   - Skip lengthy basic introductions to established technologies
+
+## Implementation Examples
+
+### Effective Technical Attention Statements
+
+✅ "Microservices architecture increased deployment frequency but created 317% more debugging complexity for 78% of engineering teams"
+
+✅ "73% of senior engineers misidentify the true performance bottlenecks in distributed systems—here's what they're missing"
+
+✅ "The hidden O(n²) algorithm in your data pipeline that's silently consuming cloud resources"
+
+✅ "Technical debt quantified: Each legacy integration costs enterprise teams an average of 142 engineering hours monthly"
+
+✅ "Three critical security vulnerabilities discovered in the most popular authentication frameworks"
+
+### Ineffective Attention Statements to Avoid
+
+❌ "Revolutionary new approach to software development"
+
+❌ "The best way to improve your technical operations"
+
+❌ "Are you struggling with technical challenges?"
+
+❌ "Game-changing solution for all your development needs"
+
+❌ "Introduction to improving system performance" 
